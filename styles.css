@@ -1,0 +1,15 @@
+body {
+  background-color: #FF5252;
+}
+
+h1 {
+  color: #FFC107;
+}
+
+.italicize {
+  font-style: italic;
+}
+
+#shout {
+  font-weight: bolder;
+}
